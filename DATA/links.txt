@@ -1,0 +1,3 @@
+Original CSV files containing Yelp Review Dataset (YelpCSV): https://drive.google.com/drive/folders/1MexwmQTjEbz7UTQ2E_fPxLntE2ugeXtV?usp=share_link
+Table that combines original dataset with all necessary features (review_feature_table.csv): https://drive.google.com/file/d/1QalYUu1pbkHglrF96GQw_0kL3thj8s17/view?usp=share_link
+Table that contains sample after undersampling to be used in training/testing (dataset_v1.csv): https://drive.google.com/file/d/1JzGEI0XdXk1l61vo3giNWUZykJzfRJKw/view?usp=share_link
